@@ -1,4 +1,4 @@
-# RealityCheck AI 2.0 - Ollama-Powered Intelligence Platform
+# RealityCheck AI 
 
 Advanced AI-powered intelligence platform with **Ollama-only integration**, real-time web scraping, enhanced discovery features, visual analytics, and comprehensive media verification capabilities.
 
